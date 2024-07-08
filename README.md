@@ -45,7 +45,7 @@ I'm a Game Programmer using C# in Unity. I'm interested in Game Development, esp
     <thead>
         <tr>
           <th width="500px" align="center"><a href="https://github.com/JeroekPanggang/GameProg-Intro">Game Programming - Intro</th>
-          <th width="500px" align="center"><a href="https://github.com/JeroekPanggang/VitRush">VitRush</th>
+          <th width="500px" align="center"><a href="https://github.com/JeroekPanggang/Flappy-Bird">Flappy Bird</th>
         </tr>
     </thead>
       <tbody>
@@ -55,7 +55,7 @@ I'm a Game Programmer using C# in Unity. I'm interested in Game Development, esp
   ![GameProg_Intro_GIF - Made with Clipchamp](https://github.com/JeroekPanggang/JeroekPanggang/assets/158981726/5400cb83-8b98-44eb-bb9b-44a896c39a65)
     </td>
         <td>
-            ![VitRush_GIF](https://github.com/JeroekPanggang/JeroekPanggang/assets/158981726/6650d3da-d668-421a-a028-2607711973a5)
+            ![FlappyBird_GIF - Made with Clipchamp](https://github.com/JeroekPanggang/JeroekPanggang/assets/158981726/8475715a-97c7-445f-a042-fd5a8dab7351)
         </td>
     </tr>
     <tr width="500px">
@@ -63,7 +63,7 @@ I'm a Game Programmer using C# in Unity. I'm interested in Game Development, esp
 This is the first project to introduce Unity through the Game Programming course. This is the second project I have made.
     </td>
     <td valign="text-top">
-  VitRush is a serious health-themed game designed to educate children about a healthy lifestyle by eating nutritious foods such as oats, apples, oranges and chicken. And avoiding bacteria and viruses, the main sources of disease.
+  This is the very first project I made. This project is based on a tutorial I watched on Youtube about how to make a game in Unity. This game is my first attempt in the world of Unity Game Development.
     </td>
     </tr>
     </tbody>
